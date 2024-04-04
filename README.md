@@ -11,7 +11,7 @@ authorName: 'Serverless, inc.'
 authorAvatar: 'https://avatars1.githubusercontent.com/u/13742415?s=200&v=4'
 -->
 
-# Lambda function for Weather API
+# AWS Lambda function for Weather API
 
 This repository holds the snippet to demonstrate how to deploy and test a lambda function with OpenWeatherMap API 
 
@@ -25,7 +25,7 @@ This repository holds the snippet to demonstrate how to deploy and test a lambda
 - Add OPENWEATHER_KEY value in your `serverless.yml`
 - Run `npm install` to install your dependencies 
 
-### Local development
+## Local development
 
 It is also possible to emulate API Gateway and Lambda locally by using `serverless-offline` plugin. In order to do that, execute the following command:
 
