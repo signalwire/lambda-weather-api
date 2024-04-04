@@ -14,4 +14,4 @@ functions:
     events:
       - httpApi: '*'
     environment:
-      OPENWEATHER_KEY: <ENTER-OPENWEATHER-KEY-HERE>
+      OPENWEATHER_KEY: <Open-weather-key-here>
